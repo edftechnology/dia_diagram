@@ -11,21 +11,10 @@ def parse_python_file(filename):
 
     elements = []
     y = 2
-    elements.append(("Flowchart - Ellipse", "Início", (2, y)))
+    elements.append(("Flowchart - Terminal", "Início", (2, y)))
     y += 3
 
-    for node in ast.walk(tree):
-        if isinstance(node, ast.FunctionDef):
-            elements.append(("Flowchart - Box", f"Função: {node.name}", (2, y)))
-            y += 3
-        elif isinstance(node, ast.If):
-            elements.append(("Flowchart - Preparation", "Decisão (if)", (2, y)))
-            y += 3
-        elif isinstance(node, (ast.For, ast.While)):
-            elements.append(("Flowchart - Box", "Loop", (2, y)))
-            y += 3
-
-    elements.append(("Flowchart - Ellipse", "Fim", (2, y)))
+    # elements.append(("Flowchart - Terminal", "Fim", (2, y)))
     return elements
 
 def generate_dia_xml(elements):
@@ -38,16 +27,18 @@ def generate_dia_xml(elements):
     layer = ET.SubElement(root, "dia:layer", name="Fluxograma", visible="true", connectable="true")
 
     for idx, (shape_type, text, position) in enumerate(elements):
-        obj = ET.SubElement(layer, "dia:object", type=shape_type, version="0", id=f"O{idx}")
+        obj = ET.SubElement(layer, "dia:object", type=shape_type, version="1", id=f"O{idx}")
 
         pos_attr = ET.SubElement(obj, "dia:attribute", name="obj_pos")
         ET.SubElement(pos_attr, "dia:point", val=f"{position[0]},{position[1]}")
 
         bb_attr = ET.SubElement(obj, "dia:attribute", name="obj_bb")
-        ET.SubElement(bb_attr, "dia:rectangle", val=f"{position[0]-0.1},{position[1]-0.1};{position[0]+2},{position[1]+1.5}")
+        ET.SubElement(bb_attr, "dia:rectangle", val=f"{position[0]-0.1},{position[1]-0.1};{position[0]+4},{position[1]+1.5}")
 
         text_attr = ET.SubElement(obj, "dia:attribute", name="text")
-        ET.SubElement(text_attr, "dia:string", val=text)
+        text_comp = ET.SubElement(text_attr, "dia:composite", type="text")
+        text_string = ET.SubElement(text_comp, "dia:attribute", name="string")
+        ET.SubElement(text_string, "dia:string").text = f"#{text}#"
 
     return ET.tostring(root, encoding="unicode")
 
@@ -74,4 +65,4 @@ def generate_flowchart_from_py(input_py):
 
 # Exemplo de uso:
 if __name__ == "__main__":
-    generate_flowchart_from_py("docs/analysis_predefined_design.py")
+    generate_flowchart_from_py("docs/test.py")
