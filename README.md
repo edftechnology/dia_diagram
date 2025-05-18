@@ -95,3 +95,4 @@ Essas cores são mais suaves e garantirão que seu gráfico tenha uma aparência
 [2] OPENAI. ***Vs code: editor popular.*** Disponível em: <https://chat.openai.com/c/b640a25d-f8e3-4922-8a3b-ed74a2657e42> (texto adaptado). ChatGPT. Acessado em: 29/12/2023 10:01.
 
 [3] OPENAI. ***Comandos de manutenção do ubuntu.*** Disponível em: <https://chat.openai.com/c/4a8cfaa2-30d6-474d-821f-7047a6a39830> (texto adaptado). ChatGPT. Acessado em: 29/12/2023 10:01.
+
