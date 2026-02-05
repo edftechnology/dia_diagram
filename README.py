@@ -145,7 +145,7 @@
 
 # ## Referências
 # 
-# [1] OPENAI. ***Instalar `dia` no ubuntu.*** Disponível em: <https://chat.openai.com/c/d9a2f2cc-d4a0-47cd-97d8-c7bf452a833c> (texto adaptado). ChatGPT. Acessado em: 29/12/2023 10:01.
+# [1] OPENAI. ***Instalar `dia diagram` no `linux ubuntu` pelo `terminal emulator`.*** Disponível em: <https://chat.openai.com/c/d9a2f2cc-d4a0-47cd-97d8-c7bf452a833c> (texto adaptado). ChatGPT. Acessado em: 29/12/2023 10:01.
 # 
 # [2] OPENAI. ***Vs code: editor popular.*** Disponível em: <https://chat.openai.com/c/b640a25d-f8e3-4922-8a3b-ed74a2657e42> (texto adaptado). ChatGPT. Acessado em: 29/12/2023 10:01.
 # 
