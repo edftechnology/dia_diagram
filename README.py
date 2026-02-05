@@ -82,7 +82,11 @@
 #     sudo apt full-upgrade -y
 #     ```
 # 
-# 1. **Instale o `dia diagram`:** Uma vez que os pacotes estejam atualizados, você pode instalar o `dia diagram` usando o gerenciador de pacotes apt. No terminal, digite: `sudo apt install dia -y`
+# 1. **Instale o `dia diagram`:** Uma vez que os pacotes estejam atualizados, você pode instalar o `dia diagram` usando o gerenciador de pacotes apt. No terminal, digite:
+# 
+#     ```bash
+#     sudo apt install dia -y
+#     ```
 # 
 # 2. **Confirmação e Uso:** Após a conclusão da instalação, você pode iniciar o `dia diagram` através do terminal com o comando `dia diagram` ou encontrá-lo no menu de aplicações do seu `Linux Ubuntu`.
 # 
