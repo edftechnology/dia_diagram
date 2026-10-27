@@ -89,12 +89,20 @@ Para configurar/instalar/usar o `dia diagram` no `Linux Ubuntu`, você pode segu
 
 Lembre-se de que, dependendo da sua versão do `Linux Ubuntu` e das configurações do sistema, esses passos podem variar um pouco. Se você encontrar problemas durante a instalação, verifique se o `dia diagram` é compatível com a sua versão do `Linux Ubuntu`.
 
+
+
+
 ## 2. Módulos de diagramas incluídos
 
-A instalação padrão do Dia Diagram inclui folhas de formas para diferentes áreas e tipos de diagrama. A tabela reúne os módulos visíveis no menu **Other sheets** do aplicativo. As descrições indicam o uso principal de cada conjunto de formas.
+A instalação padrão do `Dia Diagram` inclui folhas de formas para diferentes
+áreas e tipos de diagrama. A tabela reúne os módulos visíveis no menu
+**Other sheets** do aplicativo. As descrições indicam o uso principal de
+cada conjunto de formas.
+
+<div align="center">
 
 | Módulo | Descrição |
-|---|---|
+|:---:|---|
 | AADL | Modelagem arquitetural de sistemas embarcados e sistemas de tempo real. |
 | Assorted | Formas variadas para diagramas genéricos. |
 | Automata | Autômatos e máquinas de estados. |
@@ -155,21 +163,7 @@ A instalação padrão do Dia Diagram inclui folhas de formas para diferentes á
 | UML | Classes, objetos, casos de uso e outros elementos UML. |
 | Value Stream Mapping | Etapas, fluxos e informações de mapas de fluxo de valor. |
 
-As capturas de tela da lista de módulos estão em [`docs/figures/modules`](docs/figures/modules/).
-
-<div align="center">
-
-![Primeira parte da lista de módulos padrão do Dia Diagram](docs/figures/modules/1.jpeg)
-
-![Continuação da lista de módulos padrão do Dia Diagram](docs/figures/modules/2.jpeg)
-
-![Continuação da lista de módulos padrão do Dia Diagram](docs/figures/modules/3.jpeg)
-
-![Última parte da lista de módulos padrão do Dia Diagram](docs/figures/modules/4.jpeg)
-
-</div>
-
-
+<div>
 
 ### 2.1 Código completo para configurar/instalar/usar
 
