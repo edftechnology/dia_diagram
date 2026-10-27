@@ -101,67 +101,67 @@ cada conjunto de formas.
 
 <div align="center">
 
-| Módulo | Descrição |
-|:---:|---|
-| AADL | Modelagem arquitetural de sistemas embarcados e sistemas de tempo real. |
-| Assorted | Formas variadas para diagramas genéricos. |
-| Automata | Autômatos e máquinas de estados. |
-| AUTOSAR | Arquiteturas e componentes de sistemas automotivos AUTOSAR. |
-| BPMN | Processos de negócio usando a notação BPMN. |
-| Building Site | Plantas e elementos de canteiros de obras. |
-| Central Data Processing | Componentes de processamento centralizado de dados. |
-| CH-1 notation | Símbolos da notação CH-1 para modelagem de processos. |
-| ChemEng | Equipamentos e processos de engenharia química. |
-| Chemistry Lab | Materiais e instrumentos de laboratório de química. |
-| Chronogram | Diagramas temporais de sinais e eventos. |
-| Circuit | Símbolos básicos de circuitos elétricos e eletrônicos. |
-| Circuit2 | Símbolos adicionais para esquemas de circuitos. |
-| Cisco — Computer | Equipamentos e componentes de informática da Cisco. |
-| Cisco — Miscellaneous | Símbolos diversos de redes e produtos Cisco. |
-| Cisco — Network | Equipamentos e topologias de rede Cisco. |
-| Cisco — Switch | Switches e componentes relacionados da Cisco. |
-| Cisco — Telephony | Equipamentos e sistemas de telefonia Cisco. |
-| Civil | Elementos de engenharia civil e infraestrutura. |
-| CMOS | Símbolos de circuitos e lógica CMOS. |
-| Cybernetics | Elementos para diagramas de sistemas cibernéticos e controle. |
-| Database | Entidades, relações e componentes de bancos de dados. |
-| Digital | Portas e componentes de lógica digital. |
-| Electric | Componentes e instalações elétricas. |
-| Electric 2 | Símbolos elétricos adicionais. |
-| Electrical | Componentes para esquemas de engenharia elétrica. |
-| Electronic | Componentes para esquemas de eletrônica. |
-| ER | Entidades e relacionamentos de modelos de dados. |
-| Event-driven process chain | Processos modelados com cadeias de processos orientadas a eventos (EPC). |
-| Flowchart | Símbolos de fluxogramas. |
-| FS | Símbolos de sistemas de arquivos e estruturas relacionadas. |
-| Gane and Sarson | Elementos para diagramas de fluxo de dados na notação Gane–Sarson. |
-| Gradient | Formas e preenchimentos com gradiente. |
-| GRAFCET | Etapas, transições e ações de controle sequencial GRAFCET. |
-| HVAC | Equipamentos e sistemas de aquecimento, ventilação e ar-condicionado. |
-| jigsaw | Peças de quebra-cabeça para composições e diagramas. |
-| Ladder | Contatos, bobinas e elementos de lógica ladder. |
-| Lights | Luminárias e elementos de iluminação. |
-| Logic | Símbolos de lógica e operações booleanas. |
-| LST | Símbolos para diagramas de linhas de transmissão. |
-| Map, Isometric | Elementos de mapas e cenários isométricos. |
-| Miscellaneous | Formas diversas sem categoria específica. |
-| MSE | Símbolos para engenharia de sistemas mecânicos. |
-| Network | Nós, conexões e componentes de redes. |
-| Optics | Elementos e componentes de sistemas ópticos. |
-| Pneumatic/Hydraulic | Válvulas, atuadores e componentes pneumáticos e hidráulicos. |
-| Racks | Racks, gabinetes e equipamentos montados em rack. |
-| RE-i* | Símbolos da notação de requisitos RE-i*. |
-| RE-Jackson | Elementos de engenharia de requisitos segundo Jackson. |
-| RE-KAOS | Objetivos, agentes e relações da metodologia KAOS. |
-| Renewable Energy | Equipamentos e sistemas de energia renovável. |
-| SADT/IDEF0 | Atividades, entradas, controles, saídas e mecanismos da notação IDEF0. |
-| Scene graph | Nós e relações hierárquicas de grafos de cena. |
-| SDL | Elementos da linguagem de especificação e descrição SDL. |
-| Shape Design | Formas básicas para criação de desenhos e símbolos personalizados. |
-| Sozi | Elementos para apresentações e diagramas compatíveis com Sozi. |
-| Sybase | Componentes e notações associados ao Sybase. |
-| UML | Classes, objetos, casos de uso e outros elementos UML. |
-| Value Stream Mapping | Etapas, fluxos e informações de mapas de fluxo de valor. |
+| # | Módulo | Descrição |
+|:---:|---|---|
+| 1 | AADL | Modelagem arquitetural de sistemas embarcados e sistemas de tempo real. |
+| 2 | Assorted | Formas variadas para diagramas genéricos. |
+| 3 | Automata | Autômatos e máquinas de estados. |
+| 4 | AUTOSAR | Arquiteturas e componentes de sistemas automotivos AUTOSAR. |
+| 5 | BPMN | Processos de negócio usando a notação BPMN. |
+| 6 | Building Site | Plantas e elementos de canteiros de obras. |
+| 7 | Central Data Processing | Componentes de processamento centralizado de dados. |
+| 8 | CH-1 notation | Símbolos da notação CH-1 para modelagem de processos. |
+| 9 | ChemEng | Equipamentos e processos de engenharia química. |
+| 10 | Chemistry Lab | Materiais e instrumentos de laboratório de química. |
+| 11 | Chronogram | Diagramas temporais de sinais e eventos. |
+| 12 | Circuit | Símbolos básicos de circuitos elétricos e eletrônicos. |
+| 13 | Circuit2 | Símbolos adicionais para esquemas de circuitos. |
+| 14 | Cisco — Computer | Equipamentos e componentes de informática da Cisco. |
+| 15 | Cisco — Miscellaneous | Símbolos diversos de redes e produtos Cisco. |
+| 16 | Cisco — Network | Equipamentos e topologias de rede Cisco. |
+| 17 | Cisco — Switch | Switches e componentes relacionados da Cisco. |
+| 18 | Cisco — Telephony | Equipamentos e sistemas de telefonia Cisco. |
+| 19 | Civil | Elementos de engenharia civil e infraestrutura. |
+| 20 | CMOS | Símbolos de circuitos e lógica CMOS. |
+| 21 | Cybernetics | Elementos para diagramas de sistemas cibernéticos e controle. |
+| 22 | Database | Entidades, relações e componentes de bancos de dados. |
+| 23 | Digital | Portas e componentes de lógica digital. |
+| 24 | Electric | Componentes e instalações elétricas. |
+| 25 | Electric 2 | Símbolos elétricos adicionais. |
+| 26 | Electrical | Componentes para esquemas de engenharia elétrica. |
+| 27 | Electronic | Componentes para esquemas de eletrônica. |
+| 28 | ER | Entidades e relacionamentos de modelos de dados. |
+| 29 | Event-driven process chain | Processos modelados com cadeias de processos orientadas a eventos (EPC). |
+| 30 | Flowchart | Símbolos de fluxogramas. |
+| 31 | FS | Símbolos de sistemas de arquivos e estruturas relacionadas. |
+| 32 | Gane and Sarson | Elementos para diagramas de fluxo de dados na notação Gane–Sarson. |
+| 33 | Gradient | Formas e preenchimentos com gradiente. |
+| 34 | GRAFCET | Etapas, transições e ações de controle sequencial GRAFCET. |
+| 35 | HVAC | Equipamentos e sistemas de aquecimento, ventilação e ar-condicionado. |
+| 36 | jigsaw | Peças de quebra-cabeça para composições e diagramas. |
+| 37 | Ladder | Contatos, bobinas e elementos de lógica ladder. |
+| 38 | Lights | Luminárias e elementos de iluminação. |
+| 39 | Logic | Símbolos de lógica e operações booleanas. |
+| 40 | LST | Símbolos para diagramas de linhas de transmissão. |
+| 41 | Map, Isometric | Elementos de mapas e cenários isométricos. |
+| 42 | Miscellaneous | Formas diversas sem categoria específica. |
+| 43 | MSE | Símbolos para engenharia de sistemas mecânicos. |
+| 44 | Network | Nós, conexões e componentes de redes. |
+| 45 | Optics | Elementos e componentes de sistemas ópticos. |
+| 46 | Pneumatic/Hydraulic | Válvulas, atuadores e componentes pneumáticos e hidráulicos. |
+| 47 | Racks | Racks, gabinetes e equipamentos montados em rack. |
+| 48 | RE-i* | Símbolos da notação de requisitos RE-i*. |
+| 49 | RE-Jackson | Elementos de engenharia de requisitos segundo Jackson. |
+| 50 | RE-KAOS | Objetivos, agentes e relações da metodologia KAOS. |
+| 51 | Renewable Energy | Equipamentos e sistemas de energia renovável. |
+| 52 | SADT/IDEF0 | Atividades, entradas, controles, saídas e mecanismos da notação IDEF0. |
+| 53 | Scene graph | Nós e relações hierárquicas de grafos de cena. |
+| 54 | SDL | Elementos da linguagem de especificação e descrição SDL. |
+| 55 | Shape Design | Formas básicas para criação de desenhos e símbolos personalizados. |
+| 56 | Sozi | Elementos para apresentações e diagramas compatíveis com Sozi. |
+| 57 | Sybase | Componentes e notações associados ao Sybase. |
+| 58 | UML | Classes, objetos, casos de uso e outros elementos UML. |
+| 59 | Value Stream Mapping | Etapas, fluxos e informações de mapas de fluxo de valor. |
 
 <div>
 
