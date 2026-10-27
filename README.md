@@ -122,8 +122,10 @@ Para configurar/instalar/usar o `dia diagram` no `Linux Ubuntu` sem precisar dig
 
 Segue as 10 cores mais claras com seus códigos RGB, ideais para uso em gráficos BPMN, para que o diagrama não fique muito escuro:
 
+<div align="center">
+
 | Cor                | Red | Green | Blue |
-|--------------------|-----|-------|------|
+|--------------------|:---:|:-----:|:----:|
 | **Azul Claro**     | 173 | 216   | 230  |
 | **Verde Claro**    | 144 | 238   | 144  |
 | **Rosa Claro**     | 255 | 182   | 193  |
@@ -135,17 +137,27 @@ Segue as 10 cores mais claras com seus códigos RGB, ideais para uso em gráfico
 | **Pêssego**        | 255 | 218   | 185  |
 | **Coral Claro**    | 240 | 128   | 128  |
 
+</div>
+
 Essas cores são mais suaves e garantirão que seu gráfico tenha uma aparência leve e agradável, evitando que fique muito escuro ou pesado.
-
-
 
 
 ## Referências
 
-[1] OPENAI. ***Instalar `dia diagram` no `linux ubuntu` pelo `terminal emulator`.*** Disponível em: <https://chat.openai.com/c/d9a2f2cc-d4a0-47cd-97d8-c7bf452a833c> (texto adaptado). ChatGPT. Acessado em: 29/12/2023 10:01.
+[1] OPENAI.
+**Instalar `dia diagram` no `linux ubuntu` pelo `terminal emulator`.**
+Disponível em: <https://chat.openai.com/c/d9a2f2cc-d4a0-47cd-97d8-c7bf452a833c> (texto adaptado).
+ChatGPT.
+Acessado em: 29/12/2023 10:01.
 
-[2] OPENAI. ***Vs code: editor popular.*** Disponível em: <https://chat.openai.com/c/b640a25d-f8e3-4922-8a3b-ed74a2657e42> (texto adaptado). ChatGPT. Acessado em: 29/12/2023 10:01.
+[2] OPENAI.
+**Vs code: editor popular.**
+Disponível em: <https://chat.openai.com/c/b640a25d-f8e3-4922-8a3b-ed74a2657e42> (texto adaptado).
+ChatGPT.
+Acessado em: 29/12/2023 10:01.
 
-[3] OPENAI. ***Comandos de manutenção do ubuntu.*** Disponível em: <https://chat.openai.com/c/4a8cfaa2-30d6-474d-821f-7047a6a39830> (texto adaptado). ChatGPT. Acessado em: 29/12/2023 10:01.
-
-
+[3] OPENAI.
+**Comandos de manutenção do ubuntu.**
+Disponível em: <https://chat.openai.com/c/4a8cfaa2-30d6-474d-821f-7047a6a39830> (texto adaptado).
+ChatGPT.
+Acessado em: 29/12/2023 10:01.
