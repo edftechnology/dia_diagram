@@ -102,7 +102,7 @@ cada conjunto de formas.
 <div align="center">
 
 | # | Módulo | Descrição |
-|:---:|---|---|
+|:---:|:---:|---|
 | 1 | AADL | Modelagem arquitetural de sistemas embarcados e sistemas de tempo real. |
 | 2 | Assorted | Formas variadas para diagramas genéricos. |
 | 3 | Automata | Autômatos e máquinas de estados. |
